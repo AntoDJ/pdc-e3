@@ -3,6 +3,7 @@ project(elaborato3 C)
 
 set(CMAKE_C_STANDARD 11)
 
+
 # Add MPI Package to Project
 find_package(MPI REQUIRED)
 
